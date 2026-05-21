@@ -26,3 +26,7 @@ python main.py
 
 ## Architecture
 LSTM(1→64, 2 couches) + Linear(64→32) + ReLU + Linear(32→1)
+
+> 📖 **Guide complet du projet et introspection** — concepts, pipeline,
+> résultats et conclusions
+> → [Lire le guide sur Notion](https://gossamer-date-32d.notion.site/LSTM-BTC-PROJECT-366ec5acb7ca8051a3ffccc50bdabd9f?source=copy_link)
